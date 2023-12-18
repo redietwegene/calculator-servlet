@@ -12,4 +12,4 @@ This project is a simple calculator web application implemented using Java Servl
 
 - Java Servlets
 - HTML and JSP for the user interface
-- Maven for project management (optional)
+
