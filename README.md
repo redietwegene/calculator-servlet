@@ -1,6 +1,6 @@
 # calculator-servlet
 
-This project is a simple calculator web application implemented using Java Servlets. Users can perform basic arithmetic operations through a web interface.
+This project is a simple calculator web application implemented using Java Servlets. Users can perform basic arithmetic operations through a web interface and it onlu include the functionality their is no any css or bootstrap.
 
 ## Features
 
